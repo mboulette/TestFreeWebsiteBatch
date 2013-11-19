@@ -2,6 +2,6 @@
 
 echo phpinfo();
 
-echo 'ooo';
+echo 'rrr';
 
 ?>
